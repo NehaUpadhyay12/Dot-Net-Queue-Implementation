@@ -1,15 +1,11 @@
 ﻿<Properties StartupConfiguration="{00B65379-C7FE-482A-8913-3531E7B02610}|Default">
   <MonoDevelop.Ide.ItemProperties.QueueOperations PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
-    <Files>
-      <File FileName="Program.cs" Line="65" Column="14" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/nehaupadhyay/Neha_Stuff/Git_Downloads/Dot-Net-Queue-Implementations/QueueOperations/Program.cs" relfile="Program.cs" line="18" column="1" />
+      <Breakpoint file="/Users/nehaupadhyay/Neha_Stuff/Git_Downloads/Dot-Net-Queue-Implementations/QueueOperations/QueueUsingStack.cs" relfile="QueueUsingStack.cs" line="12" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />

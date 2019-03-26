@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{00B65379-C7FE-482A-8913-3531E7B02610}</ProjectGuid>
+    <ProjectGuid>{2B9496DA-A5BD-4483-9D3A-7ABD6ABF8754}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>QueueOperations</RootNamespace>
-    <AssemblyName>QueueOperations</AssemblyName>
+    <RootNamespace>ShelterQueue</RootNamespace>
+    <AssemblyName>ShelterQueue</AssemblyName>
     <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
@@ -34,8 +34,6 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="QueueUsingStack.cs" />
-    <Compile Include="QueueUsingArray.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
